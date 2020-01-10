@@ -1,0 +1,6 @@
+#springmvc视图解析器配置
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/jsp/  # 前缀
+      suffix: .jsp  # 后缀

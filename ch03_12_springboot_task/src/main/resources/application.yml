@@ -1,0 +1,4 @@
+#配置EhCache的配置spring:
+  cache:
+    ehcache:
+      config: ehcache.xml

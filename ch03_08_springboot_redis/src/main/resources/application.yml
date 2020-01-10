@@ -1,0 +1,6 @@
+# redis配置
+spring:
+  redis:
+    host: localhost # 默认localhost，需要远程服务器需要修改
+    port: 6379  # 默认6379，如果不一致需要修改
+    database: 0 # 代表连接的数据库索引，默认为0,

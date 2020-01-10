@@ -1,0 +1,4 @@
+# 修改静态资源加载路径
+spring:
+  resources:
+    static-locations: classpath:/yiidian

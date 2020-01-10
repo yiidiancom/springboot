@@ -1,0 +1,10 @@
+spring:
+  datasource: #修改数据库连接配置
+    url: jdbc:mysql://localhost:3306/mybatis?characterEncoding=UTF8
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: root
+# jpa配置
+  jpa:
+    show-sql: true #控制台输出生成的SQL语句
+    generate-ddl: true # 自动建表
