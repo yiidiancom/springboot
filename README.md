@@ -6,13 +6,13 @@
 
 # 教程软件版本说明：
 
-Spring Boot框架：Spring Boot 2.1.11.RELEASE
-开发工具：IntelliJ IDEA 2017
+1. Spring Boot框架：Spring Boot 2.1.11.RELEASE
+2. 开发工具：IntelliJ IDEA 2017
 # 学习本课程要求：
 
-《Spring教程》
-《Spring MVC教程》
-《MyBatis教程》
+1. 《Spring教程》
+2. 《Spring MVC教程》
+3. 《MyBatis教程》
 
 # Spring Boot基础入门
 
